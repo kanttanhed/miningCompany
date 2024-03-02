@@ -1,4 +1,4 @@
-package mineracao;
+package org.br.mineracao;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import jakarta.persistence.Entity;
